@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-05-12 at 09:00 (GMT+3)-->
+<!--Last edited by Ukelele version 3.4.2.314 on 2021-06-01 at 09:18 (GMT+3)-->
 <keyboard group="126" id="-16156" name="U.S. - 50%" maxout="3">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -86,9 +86,9 @@
             <key code="38" output="j"/>
             <key code="39" output="&#x0027;"/>
             <key code="40" output="k"/>
-            <key code="41" output=","/>
-            <key code="42" output="?"/>
-            <key code="43" output="&#x003C;"/>
+            <key code="41" output=";"/>
+            <key code="42" output="\"/>
+            <key code="43" output=","/>
             <key code="44" output="/"/>
             <key code="45" action="8"/>
             <key code="46" output="m"/>
@@ -102,18 +102,18 @@
             <key code="64" output="&#x0010;"/>
             <key code="65" output="."/>
             <key code="66" output="&#x001D;"/>
-            <key code="67" output="-"/>
+            <key code="67" output="&#x003E;"/>
             <key code="69" output="="/>
             <key code="70" output="&#x001C;"/>
             <key code="71" output="&#x001B;"/>
             <key code="72" output="&#x001F;"/>
-            <key code="75" output="*"/>
+            <key code="75" output="&#x003C;"/>
             <key code="76" output="&#x0003;"/>
             <key code="77" output="&#x001E;"/>
-            <key code="78" output="+"/>
+            <key code="78" output="?"/>
             <key code="79" output="&#x0010;"/>
             <key code="80" output="&#x0010;"/>
-            <key code="81" output="/"/>
+            <key code="81" output="&#x003C;"/>
             <key code="82" output="0"/>
             <key code="83" output="1"/>
             <key code="84" output="2"/>
@@ -198,9 +198,9 @@
             <key code="38" output="J"/>
             <key code="39" output="&#x0022;"/>
             <key code="40" output="K"/>
-            <key code="41" output=";"/>
+            <key code="41" output=":"/>
             <key code="42" output="|"/>
-            <key code="43" output="&#x003E;"/>
+            <key code="43" output=";"/>
             <key code="44" output="|"/>
             <key code="45" action="23"/>
             <key code="46" output="M"/>
