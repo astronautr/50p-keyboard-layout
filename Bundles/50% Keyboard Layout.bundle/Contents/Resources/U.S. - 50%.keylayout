@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.4.2.314 on 2021-06-01 at 09:18 (GMT+3)-->
+<!--Last edited by Ukelele version 3.4.2.314 on 2021-09-07 at 00:17 (GMT+3)-->
 <keyboard group="126" id="-16156" name="U.S. - 50%" maxout="3">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -86,7 +86,7 @@
             <key code="38" output="j"/>
             <key code="39" output="&#x0027;"/>
             <key code="40" output="k"/>
-            <key code="41" output=";"/>
+            <key code="41" output="?"/>
             <key code="42" output="\"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
@@ -424,11 +424,11 @@
             <key code="40" output="“"/>
             <key code="41" output=""/>
             <key code="42" output="\"/>
-            <key code="43" output="≤"/>
+            <key code="43" output="&#x003C;"/>
             <key code="44" output="\"/>
             <key code="45" output="™"/>
             <key code="46" output=""/>
-            <key code="47" output="≥"/>
+            <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
             <key code="50" output=""/>
